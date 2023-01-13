@@ -1,0 +1,14 @@
+#slider {
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+  
+  .slide {
+    display: inline-block;
+  }
+  
+  img{
+    width: 200px;
+    margin: 10px;
+  }
